@@ -41,3 +41,5 @@ Quiz Page
 ![Image](https://github.com/user-attachments/assets/8ca6791e-b118-459c-ac95-fca18a02fcaa)
 
 Score Page
+![Screenshot 2025-04-08 152027](https://github.com/user-attachments/assets/84f00a37-a3d7-46bc-9eb0-2607f907c534)
+
