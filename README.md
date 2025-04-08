@@ -28,3 +28,4 @@ A simple and interactive desktop-based Quiz Application built using Java Swing. 
 
   3>Start quizzing!
 📸 Screenshots
+![Image](https://github.com/user-attachments/assets/a96afa57-dc7e-4c04-9335-8ff686040240)
