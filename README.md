@@ -44,8 +44,10 @@ Score Page
 ![Screenshot 2025-04-08 152027](https://github.com/user-attachments/assets/84f00a37-a3d7-46bc-9eb0-2607f907c534)
 
 📚 Educational Use
+
 This project is perfect for MCA/BCA students learning Java and GUI development.
 
 📄 License
+
 This project is open-source and free to use under the MIT License.
 
