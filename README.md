@@ -29,7 +29,7 @@ A simple and interactive desktop-based Quiz Application built using Java Swing. 
   3>Start quizzing!
   
   
-##📸 Screenshots
+📸 Screenshots
 
 Login Page
 
@@ -46,13 +46,13 @@ Score Page
 
 
 
-##📚 Educational Use
+📚 Educational Use
 
 
 This project is perfect for MCA/BCA students learning Java and GUI development.
 
 
-###📄 License
+📄 License
 
 
 This project is open-source and free to use under the MIT License.
