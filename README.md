@@ -36,3 +36,8 @@ Login Page
 
 Rules Page
 ![Image](https://github.com/user-attachments/assets/b18e3cf2-cfd8-4ccd-a04b-e10c00809c0e)
+
+Quiz Page
+![Image](https://github.com/user-attachments/assets/8ca6791e-b118-459c-ac95-fca18a02fcaa)
+
+Score Page
